@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+
+ header {
+    background-color: purple;
+    color: white;
+    font-family: fantasy;
+    text-shadow: 0 0 20px black;
+   
+ }
+
+header img {
+    margin: 5px; background-color: purple
+}
+nav a{
+color: white; background-color: purple; font-family: fantasy; 
+border: 1px solid purple; border-radius: 3px;
+text-shadow: 0 0 10px black;
+   
+}
+
+
+h1 {
+   text-decoration: none; 
+   text-align: center;
+ padding: 10px;
+ font-family: fantasy;
+ color: purple;
+ border: 6px solid #9400D3; border-radius: 5px; text-shadow: 0 0 10px #9400D3;
+ 
+   
+}
+
+footer p {
+    font-family: fantasy;
+    background-color: #9400D3;
+    border: 5px solid purple;
+    border-radius: 10px;
+    text-align: center;
+    text-shadow: 0 0 10px black;
+    color: white
+   
+}
+
+.contacts {
+    font-family: fantasy;
+}
+
+p img {
+    border: 5px solid purple;
+    background-color: purple;
+    border-radius: 5px;
+}
+
+
+h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 5px purple;
+    font-family: fantasy;
+    border: 3px solid purple;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+main p {
+    font-family: fantasy;
+}
